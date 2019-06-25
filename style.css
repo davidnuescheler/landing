@@ -72,20 +72,20 @@
     object-fit: cover;
 }
 
-.copy {
+.default {
     text-align: center;
 }
 
-.copy p {
+.default p {
     color: #888888;
     font-size: 0.75em;
 }
 
-.copy, footer .section {
+.default, footer .section {
     padding: 1rem 2rem;
 }
 
-.copy img {
+.default img {
     max-width: 100%;
 }
 
